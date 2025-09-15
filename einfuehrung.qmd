@@ -1,0 +1,56 @@
+## Wer bin ich und was mache ich?
+
+::: columns
+::: {.column width="50%"}
+
+- Vorlesung
+  - [Alexander Tismer](https://www.ihs.uni-stuttgart.de/institut/team/Tismer/){preview-link="true" style="text-align: center"}
+
+:::
+
+::: {.column}
+![](assets/la-grid-flow.png){width="50%"}
+:::
+:::
+
+## Was ist und wie funktioniert eine Turbine?
+### ... als Video
+
+```{=html}
+<center>
+```
+```{=html}
+<video
+  data-autoplay
+  data-src="assets/IHSnew_HLRS_reduced.mp4"
+  loop="loop"
+  width="1200"
+>
+</video>
+```
+@junginger_2016
+```{=html}
+</center>
+```
+
+## Was ist und wie funktioniert eine Turbine?
+### ... als "technische Zeichnung"
+
+::: {.r-stack}
+![](assets/le-la-sa_nged-0.png){.fragment fragment-index=0 width="1200"}
+
+![](assets/le-la-sa_nged-1.png){.fragment fragment-index=1 width="1200"}
+
+![](assets/le-la-sa_nged-2.png){.fragment fragment-index=2 width="1200"}
+
+![](assets/le-la-sa_nged-3.png){.fragment fragment-index=3 width="1200"}
+
+![](assets/le-la-sa_nged-4.png){.fragment fragment-index=4 width="1200"}
+
+![](assets/le-la-sa_nged-5.png){.fragment fragment-index=5 width="1200"}
+:::
+
+## Referenzen
+
+::: {#refs}
+:::
