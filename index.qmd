@@ -1,20 +1,12 @@
 ---
-title: "Numerische Strömungsmechanik<br> mit Optimierungsanwendung"
+title: "NGED: Pumpspeicherkraftwerke"
 institute: "Universität Stuttgart, Institut für Strömungsmechanik und Hydraulische Strömungsmachinen"
 author: "Dr.-Ing. Alexander Tismer"
 resources:
   - "assets/titel-ihs-logo.png"
   - "assets/titel_la-circ.png"
   - "assets/titel-col.png"
-#  - "assets/elbow_turbulenz.mp4"
-#  - "assets/bs_small_80x10_pareto_fit.mp4"
-#  - "assets/nepal_org.mp4"
-#  - "assets/nepal_opt.mp4"
-#  - "assets/tidal_sim-measure.mp4"
-#  - "assets/tidal_cfd.mp4"
   - "assets/IHSnew_HLRS_reduced.mp4"
-#  - "assets/DNS_cylinder.avi.mp4"
-#  - "assets/video_volllast.mp4"
 title-slide-attributes:
   data-background-image: assets/titel-ihs-logo.png, assets/titel_la-circ.png, assets/titel-col.png
   data-background-size: 10%, 30%, 100% 60%
@@ -28,7 +20,7 @@ format:
     theme: 
       - default
       - custom.scss
-    footer: "Numerische Strömungsmechanik mit Optimierungsanwendung"
+    footer: "NGED: Pumpspeicherkraftwerke"
     code-block-height: 400px
     width: 1720
     height: 970
@@ -66,4 +58,4 @@ jupyter: python3
 \newcommand{\hl}[1]{ \color{magenta}{#1} }
 \newcommand{\hla}[1]{ \color{teal}{#1} }
 
-{{< include einfuehrung.qmd >}} 
+{{< include nged.qmd >}} 

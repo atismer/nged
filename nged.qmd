@@ -13,6 +13,19 @@
 :::
 :::
 
+## Was ist und wie funktioniert ein Pumpspeicherkraftwerk?
+### ... als "technische Zeichnung"
+
+::: {.r-stack}
+![](assets/psp_nged-1.png){width="1000"}
+
+![](assets/psp_nged-2.png){.fragment fragment-index=0 width="1000"}
+:::
+
+## Pumpspeicherkraftwerk Experiment
+
+Experiment
+
 ## Was ist und wie funktioniert eine Turbine?
 ### ... als Video
 
@@ -37,7 +50,7 @@
 ### ... als "technische Zeichnung"
 
 ::: {.r-stack}
-![](assets/le-la-sa_nged-0.png){.fragment fragment-index=0 width="1200"}
+![](assets/le-la-sa_nged-0.png){width="1200"}
 
 ![](assets/le-la-sa_nged-1.png){.fragment fragment-index=1 width="1200"}
 
