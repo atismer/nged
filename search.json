@@ -2,62 +2,90 @@
   {
     "objectID": "index.html#wer-bin-ich-und-was-mache-ich",
     "href": "index.html#wer-bin-ich-und-was-mache-ich",
-    "title": "Numerische Strömungsmechanik mit Optimierungsanwendung",
+    "title": "NGED: Pumpspeicherkraftwerke",
     "section": "Wer bin ich und was mache ich?",
     "text": "Wer bin ich und was mache ich?\n\n\n\nVorlesung\n\nAlexander Tismer"
   },
   {
+    "objectID": "index.html#was-ist-und-wie-funktioniert-ein-pumpspeicherkraftwerk",
+    "href": "index.html#was-ist-und-wie-funktioniert-ein-pumpspeicherkraftwerk",
+    "title": "NGED: Pumpspeicherkraftwerke",
+    "section": "Was ist und wie funktioniert ein Pumpspeicherkraftwerk?",
+    "text": "Was ist und wie funktioniert ein Pumpspeicherkraftwerk?\n… als “technische Zeichnung”"
+  },
+  {
+    "objectID": "index.html#pumpspeicherkraftwerk-experiment",
+    "href": "index.html#pumpspeicherkraftwerk-experiment",
+    "title": "NGED: Pumpspeicherkraftwerke",
+    "section": "Pumpspeicherkraftwerk Experiment",
+    "text": "Pumpspeicherkraftwerk Experiment\nExperiment"
+  },
+  {
     "objectID": "index.html#was-ist-und-wie-funktioniert-eine-turbine",
     "href": "index.html#was-ist-und-wie-funktioniert-eine-turbine",
-    "title": "Numerische Strömungsmechanik mit Optimierungsanwendung",
+    "title": "NGED: Pumpspeicherkraftwerke",
     "section": "Was ist und wie funktioniert eine Turbine?",
     "text": "Was ist und wie funktioniert eine Turbine?\n… als Video\n\n\n\n[1]"
   },
   {
     "objectID": "index.html#was-ist-und-wie-funktioniert-eine-turbine-1",
     "href": "index.html#was-ist-und-wie-funktioniert-eine-turbine-1",
-    "title": "Numerische Strömungsmechanik mit Optimierungsanwendung",
+    "title": "NGED: Pumpspeicherkraftwerke",
     "section": "Was ist und wie funktioniert eine Turbine?",
     "text": "Was ist und wie funktioniert eine Turbine?\n… als “technische Zeichnung”"
   },
   {
     "objectID": "index.html#referenzen",
     "href": "index.html#referenzen",
-    "title": "Numerische Strömungsmechanik mit Optimierungsanwendung",
+    "title": "NGED: Pumpspeicherkraftwerke",
     "section": "Referenzen",
     "text": "Referenzen\n\n\n[1] B. Junginger, “Investigation of the Influences of Gaps at the Runner Blade for an Axial Turbine Using Hybrid Turbulence Models.” https://www.gauss-centre.eu/results/computational-and-scientific-engineering/investigation-of-the-influences-of-gaps-at-the-runner-blade-for-an-axial-turbine-using-hybrid-turbulence-models, 2016."
   },
   {
-    "objectID": "einfuehrung.html",
-    "href": "einfuehrung.html",
+    "objectID": "nged.html",
+    "href": "nged.html",
     "title": "",
     "section": "",
     "text": "Vorlesung\n\nAlexander Tismer"
   },
   {
-    "objectID": "einfuehrung.html#wer-bin-ich-und-was-mache-ich",
-    "href": "einfuehrung.html#wer-bin-ich-und-was-mache-ich",
+    "objectID": "nged.html#wer-bin-ich-und-was-mache-ich",
+    "href": "nged.html#wer-bin-ich-und-was-mache-ich",
     "title": "",
     "section": "",
     "text": "Vorlesung\n\nAlexander Tismer"
   },
   {
-    "objectID": "einfuehrung.html#was-ist-und-wie-funktioniert-eine-turbine",
-    "href": "einfuehrung.html#was-ist-und-wie-funktioniert-eine-turbine",
+    "objectID": "nged.html#was-ist-und-wie-funktioniert-ein-pumpspeicherkraftwerk",
+    "href": "nged.html#was-ist-und-wie-funktioniert-ein-pumpspeicherkraftwerk",
+    "title": "",
+    "section": "Was ist und wie funktioniert ein Pumpspeicherkraftwerk?",
+    "text": "Was ist und wie funktioniert ein Pumpspeicherkraftwerk?\n\n… als “technische Zeichnung”"
+  },
+  {
+    "objectID": "nged.html#pumpspeicherkraftwerk-experiment",
+    "href": "nged.html#pumpspeicherkraftwerk-experiment",
+    "title": "",
+    "section": "Pumpspeicherkraftwerk Experiment",
+    "text": "Pumpspeicherkraftwerk Experiment\nExperiment"
+  },
+  {
+    "objectID": "nged.html#was-ist-und-wie-funktioniert-eine-turbine",
+    "href": "nged.html#was-ist-und-wie-funktioniert-eine-turbine",
     "title": "",
     "section": "Was ist und wie funktioniert eine Turbine?",
     "text": "Was ist und wie funktioniert eine Turbine?\n\n… als Video\n\n\n\n@junginger_2016"
   },
   {
-    "objectID": "einfuehrung.html#was-ist-und-wie-funktioniert-eine-turbine-1",
-    "href": "einfuehrung.html#was-ist-und-wie-funktioniert-eine-turbine-1",
+    "objectID": "nged.html#was-ist-und-wie-funktioniert-eine-turbine-1",
+    "href": "nged.html#was-ist-und-wie-funktioniert-eine-turbine-1",
     "title": "",
     "section": "Was ist und wie funktioniert eine Turbine?",
     "text": "Was ist und wie funktioniert eine Turbine?\n\n… als “technische Zeichnung”"
   },
   {
-    "objectID": "einfuehrung.html#referenzen",
-    "href": "einfuehrung.html#referenzen",
+    "objectID": "nged.html#referenzen",
+    "href": "nged.html#referenzen",
     "title": "",
     "section": "Referenzen",
     "text": "Referenzen"
